@@ -1,0 +1,29 @@
+body
+{
+    background : black;
+    color: white;
+    font-size : 45px;
+}
+
+div {
+    display: grid;
+    place-items: center;
+  }
+
+  div img {
+    display: grid;
+    place-items: center;
+  }
+
+  .button {
+    font-size:45px;
+   margin-top:16px;
+  }
+
+  #years {
+    font-size:30px;
+  }
+
+  #breed {
+font-size:45px;
+  }
